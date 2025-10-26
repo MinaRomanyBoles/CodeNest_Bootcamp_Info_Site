@@ -1,9 +1,9 @@
 # 🚀 CodeNest Bootcamp - Professional Coding Academy
 
-![Crack-n-Stack Game Preview](screens/1.png)
-![Crack-n-Stack Game Preview](screens/2.png)
-![Crack-n-Stack Game Preview](screens/3.png)
-![Crack-n-Stack Game Preview](screens/4.png)
+![Hero Section](screens/1.png)
+![Programs Section](screens/2.png)
+![Projects Section](screens/3.png)
+![Contact Section](screens/4.png)
 
 ![CodeNest Banner](https://img.shields.io/badge/CodeNest-Bootcamp-DC143C?style=for-the-badge&logo=code&logoColor=FFD700)
 ![Version](https://img.shields.io/badge/version-1.0.0-gold?style=for-the-badge)
