@@ -1,5 +1,10 @@
 # 🚀 CodeNest Bootcamp - Professional Coding Academy
 
+![Crack-n-Stack Game Preview](screens/1.png)
+![Crack-n-Stack Game Preview](screens/2.png)
+![Crack-n-Stack Game Preview](screens/3.png)
+![Crack-n-Stack Game Preview](screens/4.png)
+
 ![CodeNest Banner](https://img.shields.io/badge/CodeNest-Bootcamp-DC143C?style=for-the-badge&logo=code&logoColor=FFD700)
 ![Version](https://img.shields.io/badge/version-1.0.0-gold?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-1a1a1a?style=for-the-badge)
@@ -117,20 +122,11 @@ Border Radius: 8px - 50px (depending on element)
 codenest-bootcamp/
 │
 ├── index.html           # Main HTML file (English version)
-├── index-ar.html        # Arabic version (RTL)
+├── styles.css       # Main stylesheet (embedded in HTML)
+├── script.js          # Main JavaScript (embedded in HTML)
 ├── README.md            # Project documentation
 │
-├── assets/
-│   ├── images/          # Image resources
-│   └── icons/           # Icon resources
-│
-├── css/
-│   ├── styles.css       # Main stylesheet (embedded in HTML)
-│   └── animations.css   # Animation definitions
-│
-└── js/
-    ├── main.js          # Main JavaScript (embedded in HTML)
-    └── scroll.js        # Scroll animations
+└── 
 ```
 
 ---
@@ -438,13 +434,11 @@ copies of the Software...
 ### CodeNest Bootcamp
 - 🌐 Website: [www.codenest.com](https://www.codenest.com)
 - 📧 Email: info@codenest.com
-- 📱 Phone: +20 123 456 7890
-- 📍 Location: Cairo, Egypt
+
 
 ### Developer
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [@MinaRomany](https://www.linkedin.com/in/minaromany/)
+- 🐙 GitHub: [@MinaRomanyBoles](https://github.com/MinaRomanyBoles)
 
 ---
 
@@ -523,7 +517,7 @@ copies of the Software...
 
 ### ⭐ Star this repository if you find it helpful!
 
-**Made with ❤️ by CodeNest Team**
+**Made with ❤️ by SimplifeEG Team**
 
 [Report Bug](https://github.com/yourusername/codenest-bootcamp/issues) · [Request Feature](https://github.com/yourusername/codenest-bootcamp/issues)
 
