@@ -19,7 +19,6 @@ body {
     overflow-x: hidden;
 }
 
-/* Navigation */
 nav {
     position: fixed;
     width: 100%;
@@ -85,7 +84,6 @@ nav .container {
     transition: 0.3s;
 }
 
-/* Hero Section */
 .hero {
     height: 100vh;
     background: linear-gradient(135deg, rgba(220, 20, 60, 0.85), rgba(26, 26, 26, 0.85)), 
@@ -168,7 +166,6 @@ nav .container {
     }
 }
 
-/* Sections */
 section {
     padding: 5rem 5%;
     max-width: 1400px;
@@ -203,7 +200,6 @@ section {
     color: #ccc;
 }
 
-/* Menu/Programs Section */
 .programs-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -272,7 +268,6 @@ section {
     font-weight: bold;
 }
 
-/* Gallery Section */
 .gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -343,7 +338,6 @@ section {
     font-size: 4rem;
 }
 
-/* Contact Section */
 .contact-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -437,7 +431,6 @@ section {
     box-shadow: 0 5px 20px rgba(255, 215, 0, 0.4);
 }
 
-/* Footer */
 footer {
     background: #0a0a0a;
     padding: 2rem 5%;
@@ -467,7 +460,6 @@ footer .social-links a:hover {
     transform: scale(1.2);
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .menu-toggle {
         display: flex;
@@ -519,7 +511,6 @@ footer .social-links a:hover {
     }
 }
 
-/* Scroll Animation */
 .fade-in {
     opacity: 0;
     transform: translateY(30px);
@@ -529,4 +520,30 @@ footer .social-links a:hover {
 .fade-in.visible {
     opacity: 1;
     transform: translateY(0);
+}
+.lang-switcher {
+    color: var(--gold);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--gold);
+    border-radius: 20px;
+    transition: all 0.3s;
+    margin-left: 1rem; 
+}
+
+.lang-switcher:hover {
+    background: var(--gold);
+    color: var(--matte-black);
+}
+
+@media (max-width: 768px) {
+    .lang-switcher {
+        position: absolute;
+        right: 80px;
+        top: 50%;
+        transform: translateY(-50%);
+        margin-left: 0;
+    }
 }
