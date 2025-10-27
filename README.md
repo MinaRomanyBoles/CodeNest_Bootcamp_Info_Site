@@ -1,11 +1,9 @@
-لقد قمت بمراجعة وتحديث ملف `README.md` بالكامل ليعكس التعديلات الجديدة التي قمنا بها (إضافة اللغة العربية، زر تبديل اللغة، استخدام Font Awesome، وتحديث شجرة الملفات).
-
-إليك الملف المحدث جاهزًا للنسخ:
-
------
 
 # 🚀 CodeNest Bootcamp - Professional Coding Academy
-
+![Hero Section](screens/1.png)
+![Programs Section](screens/2.png)
+![Projects Section](screens/3.png)
+![Contact Section](screens/4.png)
 ## 📋 Table of Contents
 
   - [Overview](#-overview)
